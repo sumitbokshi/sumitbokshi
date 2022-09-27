@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbokshi&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbokshi" /> </p>
-
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I am currently learning **Backend Development**
 
 - 💬 Ask me about **Java,MySql,Javascript,HTML,CSS**
 
@@ -15,7 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swww.linkedin.com/in/sumit-bokshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swww.linkedin.com/in/sumit-bokshi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sumit-bokshi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitbokshi&show_icons=true&locale=en&layout=compact" alt="sumitbokshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumitbokshi&show_icons=true&locale=en" alt="sumitbokshi" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitbokshi&label=Profile%20views&color=0e75b6&style=flat" alt="sumitbokshi" /> </p>
