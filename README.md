@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<h4>An aspiring Backend Developer looking for a role in the industry to utilize my skills. Proficient with skills required for engaging with a team for developing a project.Will love to contribute in Open Source Projects.</h4>
+
 
 - 🌱 I am currently learning **Backend Development**
 
