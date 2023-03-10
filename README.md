@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning **Backend Development**
 
-- 💬 Ask me about **Java,MySql,Javascript,HTML,CSS**
+- 💬 Ask me about **Java,MySql,SpringBoot,Javascript,HTML,CSS**
 
 - 👨‍💻 My Portfolio [https://sumitbokshi.github.io](https://sumitbokshi.github.io)
 
